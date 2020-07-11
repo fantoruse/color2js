@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: aquamarine;
+}
+.colore {
+    font-size: 10px;
+    height: 50px;
+    width: 65px;
+    display: flow;
+    position: relative;
+    left: 50%;
+}
